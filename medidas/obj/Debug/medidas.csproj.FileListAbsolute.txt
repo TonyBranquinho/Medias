@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\medidas\medidas\bin\Debug\medidas.exe.config
+C:\temp\ws-vs2019\medidas\medidas\bin\Debug\medidas.exe
+C:\temp\ws-vs2019\medidas\medidas\bin\Debug\medidas.pdb
+C:\temp\ws-vs2019\medidas\medidas\obj\Debug\medidas.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\medidas\medidas\obj\Debug\medidas.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\medidas\medidas\obj\Debug\medidas.exe
+C:\temp\ws-vs2019\medidas\medidas\obj\Debug\medidas.pdb
